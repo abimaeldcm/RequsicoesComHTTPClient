@@ -1,0 +1,6 @@
+@RequsicoesComHTTPClient_HostAddress = http://localhost:5287
+
+GET {{RequsicoesComHTTPClient_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
